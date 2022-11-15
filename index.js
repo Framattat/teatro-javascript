@@ -36,7 +36,7 @@ class config_teatro {
 
 const testo_html = document.getElementById('var');
 
-var file_platea = 5;
+var file_platea = 7;
 var posto_platea = 10;
 var file_palco = 4;
 var posto_palco = 6;
